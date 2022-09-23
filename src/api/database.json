@@ -1,0 +1,17 @@
+{
+    "locations": [
+        {
+            "id": 1,
+            "locationName": "Duck River",
+            "locationDetails": "The Duck River is just over 270 miles in length. It is one of the longest rivers contained entirely within the Tennessee borders and showcases scenic pastoral lands, steep rock cliffs, and forested banks."
+        }
+    ],
+    "activities": [
+        {
+            "id": 1,
+            "description": "Canoeing, Fishing, Kayaking, and Hiking",
+            "locationId": 1
+            
+        }
+    ]
+}
