@@ -4,6 +4,36 @@
             "id": 1,
             "locationName": "Duck River",
             "locationDetails": "The Duck River is just over 270 miles in length. It is one of the longest rivers contained entirely within the Tennessee borders and showcases scenic pastoral lands, steep rock cliffs, and forested banks."
+        },
+        {
+            "id": 2,
+            "locationName": "Harpeth River",
+            "locationDetails": "The Harpeth River is 125 miles in length and originates in Eagleville, TN. It has several natural, archaeological and historic areas."
+        },
+        {
+            "id": 3,
+            "locationName": "Buffalo River",
+            "locationDetails": "The Buffalo River is the longest un-impounded river in Middle Tennessee, flowing 125 miles through the southwestern portion of Middle Tennessee."
+        },
+        {
+            "id": 4,
+            "locationName": "Caney Fork River",
+            "locationDetails": "The Caney Fork is 144 miles long and rises in Cumberland County about six miles northwest of Crossville. Known for its beauty and peacefulness, also known for its Rainbow and Brown Trout fishing."
+        },
+        {
+            "id": 5,
+            "locationName": "Elk River",
+            "locationDetails": ""
+        },
+        {
+            "id": 6,
+            "locationName": "Piney River",
+            "locationDetails": ""
+        },
+        {
+            "id": 7,
+            "locationName": "Red River",
+            "locationDetails": ""
         }
     ],
     "activities": [
@@ -12,6 +42,36 @@
             "description": "Canoeing, Fishing, Kayaking, and Hiking",
             "locationId": 1
             
+        },
+        {
+            "id": 2,
+            "description": "Kayaking, Canoeing, Fishing and Hiking. ",
+            "locationId": 2
+        },
+        {
+            "id": 3,
+            "description": "Canoeing, Fishing, Kayaking, and Camping",
+            "locationId": 3
+        },
+        {
+            "id": 4,
+            "description": "Canoeing, Fishing, Kayaking, Camping, and Swimming",
+            "locationId": 4
+        },
+        {
+            "id": 5,
+            "description": "",
+            "locationId": 5
+        },
+        {
+            "id": 6,
+            "description": "",
+            "locationId": 6
+        },
+        {
+            "id": 7,
+            "description": "",
+            "locationId": 6
         }
     ]
 }
