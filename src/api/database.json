@@ -3,37 +3,44 @@
         {
             "id": 1,
             "locationName": "Duck River",
-            "locationDetails": "The Duck River is just over 270 miles in length. It is one of the longest rivers contained entirely within the Tennessee borders and showcases scenic pastoral lands, steep rock cliffs, and forested banks."
+            "locationDetails": "The Duck River is just over 270 miles in length. It is one of the longest rivers contained entirely within the Tennessee borders and showcases scenic pastoral lands, steep rock cliffs, and forested banks.",
+            "riverClass": "Class I river for its entire length."
         },
         {
             "id": 2,
             "locationName": "Harpeth River",
-            "locationDetails": "The Harpeth River is 125 miles in length and originates in Eagleville, TN. It has several natural, archaeological and historic areas."
+            "locationDetails": "The Harpeth River is 125 miles in length and originates in Eagleville, TN. It has several natural, archaeological and historic areas.",
+            "riverClass": "Class I river for its entire length."
         },
         {
             "id": 3,
             "locationName": "Buffalo River",
-            "locationDetails": "The Buffalo River is the longest un-impounded river in Middle Tennessee, flowing 125 miles through the southwestern portion of Middle Tennessee."
+            "locationDetails": "The Buffalo River is the longest un-impounded river in Middle Tennessee, flowing 125 miles through the southwestern portion of Middle Tennessee.",
+            "riverClass": "Class I river, but has numerous faster sections with twist and turns in the river."
         },
         {
             "id": 4,
             "locationName": "Caney Fork River",
-            "locationDetails": "The Caney Fork is 144 miles long and rises in Cumberland County about six miles northwest of Crossville. Known for its beauty and peacefulness, also known for its Rainbow and Brown Trout fishing."
+            "locationDetails": "The Caney Fork is 144 miles long and rises in Cumberland County about six miles northwest of Crossville. Known for its beauty and peacefulness, also known for its Rainbow and Brown Trout fishing.",
+            "riverClass": "Class I river."
         },
         {
             "id": 5,
             "locationName": "Elk River",
-            "locationDetails": "The Elk River is 195 miles long and begins below Tims Ford Lake. It's a clear, cold river just below the dam, making it a favorite spot for fisherman. "
+            "locationDetails": "The Elk River is 195 miles long and begins below Tims Ford Lake. It's a clear, cold river just below the dam, making it a favorite spot for fisherman. ",
+            "riverClass": "Class I river."
         },
         {
             "id": 6,
             "locationName": "Piney River",
-            "locationDetails": "The Piney River is a beautiful 24 mile river that flows into the Duck River. It features gorgeous rock bluffs, clear water, and pretty gravel bars."
+            "locationDetails": "The Piney River is a beautiful 24 mile river that flows into the Duck River. It features gorgeous rock bluffs, clear water, and pretty gravel bars.",
+            "riverClass": "It is a class I river, but can have river hazards such as strainers and sweepers."
         },
         {
             "id": 7,
             "locationName": "Red River",
-            "locationDetails": "The Red River is 100 miles long and is a major tributary to the Cumberland River. It is a moderately shallow river with sandy beaches and a rock bottom."
+            "locationDetails": "The Red River is 100 miles long and is a major tributary to the Cumberland River. It is a moderately shallow river with sandy beaches and a rock bottom.",
+            "riverClass": " Class I and II river with a few fast spots."
         }
     ],
     "activities": [
