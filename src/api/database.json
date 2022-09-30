@@ -23,17 +23,17 @@
         {
             "id": 5,
             "locationName": "Elk River",
-            "locationDetails": ""
+            "locationDetails": "The Elk River is 195 miles long and begins below Tims Ford Lake. It's a clear, cold river just below the dam, making it a favorite spot for fisherman. "
         },
         {
             "id": 6,
             "locationName": "Piney River",
-            "locationDetails": ""
+            "locationDetails": "The Piney River is a beautiful 24 mile river that flows into the Duck River. It features gorgeous rock bluffs, clear water, and pretty gravel bars."
         },
         {
             "id": 7,
             "locationName": "Red River",
-            "locationDetails": ""
+            "locationDetails": "The Red River is 100 miles long and is a major tributary to the Cumberland River. It is a moderately shallow river with sandy beaches and a rock bottom."
         }
     ],
     "activities": [
@@ -60,18 +60,18 @@
         },
         {
             "id": 5,
-            "description": "",
+            "description": "Canoeing, Fishing, Kayaking, Wildlife watching, and picnicking.",
             "locationId": 5
         },
         {
             "id": 6,
-            "description": "",
+            "description": "Canoeing, Fishing, Kayaking, Swimming, and Camping",
             "locationId": 6
         },
         {
             "id": 7,
-            "description": "",
-            "locationId": 6
+            "description": "Canoeing, Fishing, Kayaking, Swimming, and Camping",
+            "locationId": 7
         }
     ]
 }
