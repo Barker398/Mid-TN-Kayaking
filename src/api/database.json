@@ -1,4 +1,22 @@
 {
+    "users": [
+        {
+            "id": 1,
+            "userName": "paddle365",
+            "firstName": "John",
+            "lastName": "Doe",
+            "email": "paddleFast@g.com",
+            "password": 5678
+        },
+        {
+            "id": 2,
+            "userName": "riverJunkie",
+            "firstName": "Carl",
+            "lastName": "Sanders",
+            "email": "fishing365@river.com",
+            "password": 9876
+        }
+    ],
     "locations": [
         {
             "id": 1,
