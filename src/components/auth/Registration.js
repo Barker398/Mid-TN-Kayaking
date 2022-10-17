@@ -2,7 +2,7 @@ import React, { useRef } from "react"
 import { useHistory, Link } from "react-router-dom"
 import "./Login.css"
 
-export const Register = () => {
+export const Registeration = () => {
     const userName = useRef()
     const firstName = useRef()
     const lastName = useRef()
