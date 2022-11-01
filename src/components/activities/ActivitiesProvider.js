@@ -12,9 +12,14 @@ export const ActivityProvider = () => {
         .then(setActivities)   
     }
 
+    const getActivitiesById = () => {
+        return fetch(`http://localhost:8088/activities?id=${activityId}`)
+        .then(res => res.json())
+    }
+
     return (
         <ActivityContext.Provider value={{
-            activities, getActivities
+            activities, getActivities, getActivitiesById
         }}>
 
         </ActivityContext.Provider>
