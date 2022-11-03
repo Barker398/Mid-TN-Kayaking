@@ -8,4 +8,10 @@ export const ActivitiesList = () => {
     useEffect(() => {
         getActivities()
     }, [])
+
+    return (
+        <section className="activities">
+            <p className="activity_list">Activities</p>
+        </section>
+    )
 }
