@@ -17,9 +17,20 @@ export const ActivityProvider = () => {
         .then(res => res.json())
     }
 
+    const addActivity = activityObj => {
+        return fetch("http://localhost:8088/activities", {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json"
+            },
+            body: JSON.stringify(activityObj)
+        })
+        .then(getActivities)
+    }
+
     return (
         <ActivityContext.Provider value={{
-            activities, getActivities, getActivitiesById
+            activities, getActivities, getActivitiesById, addActivity
         }}>
 
         </ActivityContext.Provider>
