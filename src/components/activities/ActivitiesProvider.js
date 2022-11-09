@@ -28,9 +28,16 @@ export const ActivityProvider = () => {
         .then(getActivities)
     }
 
+    const removeActivity = activityId => {
+        return fetch(`http://localhost:8088/${activityId}`, {
+            method: "DELETE"
+        })
+        .then(getActivities)
+    }
+
     return (
         <ActivityContext.Provider value={{
-            activities, getActivities, getActivitiesById, addActivity
+            activities, getActivities, getActivitiesById, addActivity, removeActivity
         }}>
 
         </ActivityContext.Provider>
