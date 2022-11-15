@@ -37,21 +37,21 @@
             "locationName": "Buffalo River",
             "locationDetails": "The Buffalo River is the longest un-impounded river in Middle Tennessee, flowing 125 miles through the southwestern portion of Middle Tennessee.",
             "riverClass": "Class I river, but has numerous faster sections with twist and turns in the river.",
-            "history": "he Buffalo River is the longest wild river in the United States, which means there are no impediments on the river, such as damns. It has been designated as a State Scenic River under the Tennessee Wild and Scenic Rivers Act."
+            "history": "The Buffalo River is the longest wild river in the United States, which means there are no impediments on the river, such as damns. It has been designated as a State Scenic River under the Tennessee Wild and Scenic Rivers Act."
         },
         {
             "id": 4,
             "locationName": "Caney Fork River",
             "locationDetails": "The Caney Fork is 144 miles long and rises in Cumberland County about six miles northwest of Crossville. Known for its beauty and peacefulness, also known for its Rainbow and Brown Trout fishing.",
             "riverClass": "Class I river.",
-            "history": ""
+            "history": "The Caney Fork in Middle Tennessee was noted for its pearl-bearing mussels, and “pearling” was a favorite sport on Sunday afternoons at the turn of the century. After World War I, dams were built on many of the rivers, and the mussels lost their swift and shallow shoals."
         },
         {
             "id": 5,
             "locationName": "Elk River",
             "locationDetails": "The Elk River is 195 miles long and begins below Tims Ford Lake. It's a clear, cold river just below the dam, making it a favorite spot for fisherman. ",
             "riverClass": "Class I river.",
-            "history": ""
+            "history": "There are actually two Elk Rivers in Tennessee, the smaller of which is located in northeast Tennessee. This Elk River flows from the back side of Beech Mountain, North Carolina through Carter County, Tennessee and empties into Watauga Lake."
         },
         {
             "id": 6,
@@ -65,7 +65,7 @@
             "locationName": "Red River",
             "locationDetails": "The Red River is 100 miles long and is a major tributary to the Cumberland River. It is a moderately shallow river with sandy beaches and a rock bottom.",
             "riverClass": " Class I and II river with a few fast spots.",
-            "history": ""
+            "history": "The Red River in Tennessee is known for its Small Mouth Bass and Red Eye bass. In addition a seasonal migration of Striped Bass is becoming a popular fishery in the lower sections near the confluence with the Cumberland River. The Red River was the location for many historical events that took place during the founding of the Cumberland Settlement and Tennessee. Many confrontations between Native American People and Pioneers took place along it’s banks."
         }
     ],
     "activities": [
