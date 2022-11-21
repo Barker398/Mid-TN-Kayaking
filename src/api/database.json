@@ -15,6 +15,14 @@
             "lastName": "Sanders",
             "email": "fishing365@river.com",
             "password": 9876
+        },
+        {
+            "id": 3,
+            "userName": "swimmingHole",
+            "firstName": "Spud",
+            "lastName": "Nicholas",
+            "email": "swimmer4life@pools.com",
+            "password": 9876
         }
     ],
     "locations": [
@@ -58,7 +66,7 @@
             "locationName": "Piney River",
             "locationDetails": "The Piney River is a beautiful 24 mile river that flows into the Duck River. It features gorgeous rock bluffs, clear water, and pretty gravel bars.",
             "riverClass": "It is a class I river, but can have river hazards such as strainers and sweepers.",
-            "history": ""
+            "history": "Piney gorge region is home to one of the world's most biodiverse ecosystems. Rare species such as Tangerine Darters, Hellbenders and Purple Bean Mollusks all live in and around the Piney watershed."
         },
         {
             "id": 7,
