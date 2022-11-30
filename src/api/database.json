@@ -138,6 +138,18 @@
             "locationId": 1,
             "name": "Chickasaw Access Point",
             "address": "Columbia, TN 38401"
+        },
+        {
+            "id": 5,
+            "locationId": 3,
+            "name": "Lawrence County HighWay Bridge at Henryville",
+            "address": "One mile east of Henryville on County Road 6230"
+        },
+        {
+            "id": 6,
+            "locationId": 3,
+            "name": "Grimes Canoe Base",
+            "address": "767 Boy Scout Rd Linden, TN 37096"
         }
     ]
 }
