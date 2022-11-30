@@ -126,6 +126,18 @@
             "locationId": 7,
             "name": "Porters Chapel Public River Access",
             "address": "3036 Porters Chapel Rd, Adams, TN 37010"
+        },
+        {
+            "id": 3,
+            "locationId": 1,
+            "name": "Hardison Mill",
+            "address": "Hwy 431 "
+        },
+        {
+            "id": 4,
+            "locationId": 1,
+            "name": "Chickasaw Access Point",
+            "address": "Columbia, TN 38401"
         }
     ]
 }
