@@ -22,7 +22,7 @@
             "firstName": "Spud",
             "lastName": "Nicholas",
             "email": "swimmer4life@pools.com",
-            "password": 9876
+            "password": 9475
         }
     ],
     "locations": [
@@ -112,6 +112,32 @@
             "id": 7,
             "description": "Canoeing, Fishing, Kayaking, Swimming, and Camping",
             "locationId": 7
+        }
+    ],
+    "launchSites": [
+        {
+            "id": 1,
+            "locationId": 7,
+            "name": "Red River Canoe Rental",
+            "address": "8002 Old Hwy 41 N, Adams, TN 37010"
+        },
+        {
+            "id": 2,
+            "locationId": 7,
+            "name": "Porters Chapel Public River Access",
+            "address": "3036 Porters Chapel Rd, Adams, TN 37010"
+        },
+        {
+            "id": 3,
+            "locationId": 1,
+            "name": "Hardison Mill",
+            "address": "Hwy 431 "
+        },
+        {
+            "id": 4,
+            "locationId": 1,
+            "name": "Chickasaw Access Point",
+            "address": "Columbia, TN 38401"
         }
     ]
 }
