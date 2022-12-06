@@ -150,6 +150,18 @@
             "locationId": 3,
             "name": "Grimes Canoe Base",
             "address": "767 Boy Scout Rd Linden, TN 37096"
+        },
+        {
+            "id": 7,
+            "locationId": 6,
+            "name": "Pinewood Canoe Camp",
+            "address": "2011 Cash Hollow Rd, Nunnelly, TN 37137"
+        },
+        {
+            "id": 8,
+            "locationId": 6,
+            "name": "Piney River Resort",
+            "address": "6869 Piney River Rd N, Bon Aqua, TN 37025"
         }
     ]
 }
