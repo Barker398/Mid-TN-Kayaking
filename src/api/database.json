@@ -162,6 +162,18 @@
             "locationId": 6,
             "name": "Piney River Resort",
             "address": "6869 Piney River Rd N, Bon Aqua, TN 37025"
+        },
+        {
+            "id": 9,
+            "locationId": 2,
+            "name": "Harpeth River State Park-Highway 100 Canoe Access",
+            "address": "7701 TN-100, Nashville, TN 37221"
+        },
+        {
+            "id": 10,
+            "locationId": 2,
+            "name": "Pinkerton Park",
+            "address": "405 Murfreesboro Road Franklin, TN 37064 "
         }
     ]
 }
