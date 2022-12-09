@@ -173,7 +173,19 @@
             "id": 10,
             "locationId": 2,
             "name": "Pinkerton Park",
-            "address": "405 Murfreesboro Road Franklin, TN 37064 "
+            "address": "405 Murfreesboro Road Franklin, TN 37064"
+        },
+        {
+            "id": 11,
+            "locationId": 5,
+            "name": "Elk River Canoe Rental",
+            "address": "190 Smithland Rd, Kelso, TN 37348"
+        },
+        {
+            "id": 12,
+            "locationId": 5,
+            "name": "Elk River Adventures",
+            "address": "Elkton Pike Prospect, TN 38477"
         }
     ]
 }
