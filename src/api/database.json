@@ -192,6 +192,12 @@
             "locationId": 4,
             "name": "Canoe the Caney",
             "address": "17055 Smithville Hwy, Silver Point, TN 38582"
+        },
+        {
+            "id": 14,
+            "locationId": 4,
+            "name": "Caney Fork River Rentals",
+            "address": "1075 Wolf Creek Rd, Silver Point, TN 38582"
         }
     ]
 }
