@@ -186,6 +186,12 @@
             "locationId": 5,
             "name": "Elk River Adventures",
             "address": "Elkton Pike Prospect, TN 38477"
+        },
+        {
+            "id": 13,
+            "locationId": 4,
+            "name": "Canoe the Caney",
+            "address": "17055 Smithville Hwy, Silver Point, TN 38582"
         }
     ]
 }
