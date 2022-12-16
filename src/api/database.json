@@ -198,6 +198,12 @@
             "locationId": 4,
             "name": "Caney Fork River Rentals",
             "address": "1075 Wolf Creek Rd, Silver Point, TN 38582"
+        },
+        {
+            "id": 15,
+            "locationId": 4,
+            "name": "Happy Hollow Boat Ramp",
+            "address": "5238 Medley Amonette Rd, Buffalo Valley, TN 38548"
         }
     ]
 }
