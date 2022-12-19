@@ -1,6 +1,5 @@
 import { createContext, useState } from "react";
 
-
 export const LocationContext = createContext()
 
 export const LocationProvider = () => {
