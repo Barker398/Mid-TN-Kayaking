@@ -11,9 +11,19 @@ export const LaunchSiteProvider = () => {
         .then(setLaunchSites)
     }
 
+    const addLaunchSite = LaunchSiteObj => {
+        return fetch("http://localhost:8088/launchSites", {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json"
+            },
+            body: JSON.stringify(LaunchSiteObj)
+        })
+        .then(getLaunchSites)
+    }
     return (
         <LaunchSiteContext.Provider value={{
-            launchSites, getLaunchSites
+            launchSites, getLaunchSites, addLaunchSite
         }}>
 
         </LaunchSiteContext.Provider>
