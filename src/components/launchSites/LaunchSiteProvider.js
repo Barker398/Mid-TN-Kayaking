@@ -21,9 +21,16 @@ export const LaunchSiteProvider = () => {
         })
         .then(getLaunchSites)
     }
+
+    const removeLaunchSite = launchSiteId => {
+        return fetch(`http://localhost:8088/launchSites/${launchSiteId}`, {
+            method: "DELETE"
+        })
+        .then(getLaunchSites)
+    }
     return (
         <LaunchSiteContext.Provider value={{
-            launchSites, getLaunchSites, addLaunchSite
+            launchSites, getLaunchSites, addLaunchSite, removeLaunchSite
         }}>
 
         </LaunchSiteContext.Provider>
