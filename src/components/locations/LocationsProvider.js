@@ -7,13 +7,13 @@ export const LocationProvider = () => {
 
     const getLocations = () => {
         return fetch("http://localhost:8088/locations")
-        .then(res => res.json())
-        .then(setLocations)    
+            .then(res => res.json())
+            .then(setLocations)
     }
 
     const getLocationById = (locationId) => {
         return fetch(`http://localhost:8088/locations?id=${locationId}`)
-        .then(res => res.json())
+            .then(res => res.json())
     }
 
     const addLocation = locationObj => {
@@ -24,21 +24,21 @@ export const LocationProvider = () => {
             },
             body: JSON.stringify(locationObj)
         })
-        .then(getLocations)
+            .then(getLocations)
     }
 
     const removeLocation = locationId => {
         return fetch(`http://localhost:8088/locations/${locationId}`, {
             method: "DELETE"
         })
-        .then(getLocations)
+            .then(getLocations)
     }
 
     return (
         <LocationContext.Provider value={{
             locations, getLocations, getLocationById, addLocation, removeLocation
         }}>
-            
+
         </LocationContext.Provider>
     )
 }
