@@ -7,8 +7,8 @@ export const LaunchSiteProvider = () => {
 
     const getLaunchSites = () => {
         return fetch("http://localhost:8088/launchsites")
-        .then(res => res.json())
-        .then(setLaunchSites)
+            .then(res => res.json())
+            .then(setLaunchSites)
     }
 
     const addLaunchSite = LaunchSiteObj => {
@@ -19,14 +19,14 @@ export const LaunchSiteProvider = () => {
             },
             body: JSON.stringify(LaunchSiteObj)
         })
-        .then(getLaunchSites)
+            .then(getLaunchSites)
     }
 
     const removeLaunchSite = launchSiteId => {
         return fetch(`http://localhost:8088/launchSites/${launchSiteId}`, {
             method: "DELETE"
         })
-        .then(getLaunchSites)
+            .then(getLaunchSites)
     }
     return (
         <LaunchSiteContext.Provider value={{

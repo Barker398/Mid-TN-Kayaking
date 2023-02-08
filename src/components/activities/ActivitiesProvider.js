@@ -8,13 +8,13 @@ export const ActivityProvider = () => {
 
     const getActivities = () => {
         return fetch("http://localhost:8088/activities")
-        .then(res => res.json())
-        .then(setActivities)   
+            .then(res => res.json())
+            .then(setActivities)
     }
 
     const getActivitiesById = () => {
         return fetch(`http://localhost:8088/activities?id=${activityId}`)
-        .then(res => res.json())
+            .then(res => res.json())
     }
 
     const addActivity = activityObj => {
@@ -25,14 +25,14 @@ export const ActivityProvider = () => {
             },
             body: JSON.stringify(activityObj)
         })
-        .then(getActivities)
+            .then(getActivities)
     }
 
     const removeActivity = activityId => {
         return fetch(`http://localhost:8088/${activityId}`, {
             method: "DELETE"
         })
-        .then(getActivities)
+            .then(getActivities)
     }
 
     return (

@@ -7,7 +7,7 @@ export const ApplicationViews = () => {
         <>
             <LocationProvider>
                 <Route path="/locations">
-                    
+
                 </Route>
             </LocationProvider>
         </>
